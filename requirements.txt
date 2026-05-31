@@ -1,0 +1,11 @@
+laion_clap
+essentia-tensorflow
+librosa
+scikit-learn
+pandas
+numpy
+matplotlib
+ipython
+torch
+torchvision
+transformers
